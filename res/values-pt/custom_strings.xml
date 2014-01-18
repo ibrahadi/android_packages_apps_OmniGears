@@ -24,6 +24,7 @@
     <string name="bars_and_menus_settings">Barras e menus</string>
     <string name="active_display_settings">ActiveDisplay</string>
     <string name="bars_and_menus_category_status_bar_title">Barra de status</string>
+    <string name="bars_and_menus_category_navigation_bar_title">Barra de Navegação </string>
     <string name="status_bar_battery_title">Estilo da bateria</string>
     <string name="status_bar_toggle_brightness">Controle de brilho</string>
     <string name="status_bar_toggle_brightness_summary">Ajustar o brilho deslizando através da barra de status</string>
@@ -87,7 +88,7 @@
     <string name="led_color_red">Vermelho</string>
 
     <!-- Battery light settings  -->
-    <string name="battery_light_enable">Habilitar</string>
+    <string name="battery_light_enable">Habilitar Led de bateria</string>
     <string name="battery_low_pulse_title">Pulsar se a bateria estiver baixa</string>
     <string name="battery_light_list_title">Cores</string>
     <string name="battery_light_low_color_title">Bateria baixa</string>
@@ -164,6 +165,8 @@
     <!-- Network speed -->
     <string name="show_network_speed">Indicador da velocidade da rede</string>
     <string name="show_network_speed_summary">Mostrar a velodicade da rede na barra de status</string>
+    <string name="show_network_speed_bits">Mostrar a velocidade em bits por segundo</string>
+    <string name="show_network_speed_bytes">Mostrar a velocidade em bytes por segundo</string>
 
     <!-- Status Bar Activity Indicators -->
     <string name="show_activity_indicators_on_status_bar_title">Indicador de atividade da rede</string>
@@ -290,6 +293,8 @@
     <string name="notification_drawer_category_title">Painel de notificação</string>
     <string name="custom_statusbar_header_title">Cabeçalho do painel de notificação contextual</string>
     <string name="custom_statusbar_header_summary">Define o plano de fundo do cabeçalho do painel de notificação para uma imagem definida no dia e hora atual.</string>
+    <string name="recents_memory_indicator_location_summary">Escolher a posição do indicador de memória</string>
+
 
     <!-- Volume default -->
     <string name="button_volume_default_none">Nenhum</string>
